@@ -1,0 +1,2 @@
+2021-02-01T13:08:49+00:00 CRITICAL require(): Failed opening required '/var/www/unit2/moncms/wp-content/themes/voyage/inc/extras.php' (include_path='.:/usr/share/php') dans /var/www/unit2/moncms/wp-content/themes/travel-agency/functions.php à la ligne 18
+
